@@ -15,3 +15,5 @@
 /BidirectionalRNN/.ipynb_checkpoints/2_data_cleansing-checkpoint.ipynb
 /BidirectionalRNN/.ipynb_checkpoints/3_spacing-checkpoint.ipynb
 /BidirectionalRNN/.ipynb_checkpoints/4_tokenizing-checkpoint.ipynb
+/BidirectionalRNN/3_cleansed_corpus.txt
+/BidirectionalRNN/4_spaced_corpus.txt
